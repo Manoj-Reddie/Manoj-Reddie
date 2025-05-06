@@ -7,34 +7,28 @@
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: Python, Java, C++
-- **DevOps**: Jenkins, Git, GitHub, Bash, Docker, Kubernetes, Argo CD
-- **Cloud**: Amazon Web Services (AWS)
-- **IaC**: Terraform
-- **OS**: Linux
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 
----
+### ⚙️ DevOps
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-FB6B90?style=for-the-badge&logo=argo&logoColor=white)
 
-## 🧠 Projects
+### ☁️ Cloud & IaC
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-### ⚙️ End-to-End CI/CD Pipeline using Jenkins
-Implemented a robust CI/CD pipeline for a Java application using Jenkins Declarative Pipelines. Integrated:
-- Build, Unit Testing
-- Static Code Analysis (SAST, DAST)
-- Docker Image Creation
-- Kubernetes Deployment via Argo CD
+### 🐧 Operating System
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🏗️ AWS Three-Tier Architecture
-Designed and deployed a scalable, highly available 3-tier application architecture on AWS using:
-- VPC, EC2, ASG, ELB, Route 53, S3, CDN, NAT, API Gateway
-- Automated provisioning via Terraform
 
-### 💸 AWS Cloud Cost Optimization
-Reduced AWS costs by 25% using:
-- Python Lambda functions + CloudWatch to monitor and delete unused EBS snapshots
-- Boto3 for AWS API interactions
-
----
 
 ## 🌱 Involvement
 
